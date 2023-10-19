@@ -127,6 +127,6 @@
 
 //for(int i =1; i<=num; i++)
 //{
-//    Console.WriteLine(Math.Pow(i,2));
+//    Console.WriteLine(Math.Pow(i,2)); // Math.Pow - степень числа
 //}
 
