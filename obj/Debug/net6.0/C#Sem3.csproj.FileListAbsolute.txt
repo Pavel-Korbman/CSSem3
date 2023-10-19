@@ -1,0 +1,15 @@
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem3\obj\Debug\net6.0\C#Sem3.csproj.AssemblyReference.cache
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem3\obj\Debug\net6.0\C#Sem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem3\obj\Debug\net6.0\C#Sem3.AssemblyInfoInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem3\obj\Debug\net6.0\C#Sem3.AssemblyInfo.cs
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem3\obj\Debug\net6.0\C#Sem3.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem3\bin\Debug\net6.0\C#Sem3.exe
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem3\bin\Debug\net6.0\C#Sem3.deps.json
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem3\bin\Debug\net6.0\C#Sem3.runtimeconfig.json
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem3\bin\Debug\net6.0\C#Sem3.dll
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem3\bin\Debug\net6.0\C#Sem3.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem3\obj\Debug\net6.0\C#Sem3.dll
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem3\obj\Debug\net6.0\refint\C#Sem3.dll
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem3\obj\Debug\net6.0\C#Sem3.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem3\obj\Debug\net6.0\C#Sem3.genruntimeconfig.cache
+C:\Users\pavel\OneDrive\Рабочий стол\C#Sem3\obj\Debug\net6.0\ref\C#Sem3.dll
